@@ -277,7 +277,7 @@ client.on('message', message => {
             if (!appropriateChannel(message)) {
                 return;
             }
-            var usage = "Command usage: `!breakpoint attacker attack_name iv`";
+            var usage = "Command usage: `!breakpoint attacker attack_name iv (optional: defender)`";
             var msgSplit = message.content.toLowerCase().split(" ");
             if (msgSplit.length < 4) {
                 message.channel.send("Sorry, incorrect format.\n"+usage);
