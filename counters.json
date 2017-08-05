@@ -314,8 +314,7 @@
    },
    "mewtwo":{
       "tyranitar":[
-         "Bite + Crunch",
-         "Bite + Stone Edge"
+         "Bite + Crunch / Stone Edge"
       ],
       "gengar":[
          "Any + Shadow Ball",
@@ -325,8 +324,7 @@
          "Snarl + Foul Play"
       ],
       "pinsir":[
-         "Bug Bite + X Scissor",
-         "Fury Cutter + X Scissor"
+         "Bug Bite / Fury Cutter + X Scissor"
       ],
       "scizor":[
          "Fury Cutter + X Scissor"
@@ -334,8 +332,7 @@
    },
    "mew":{
       "tyranitar":[
-         "Bite + Crunch",
-         "Bite + Stone Edge"
+         "Bite + Crunch / Stone Edge"
       ],
       "gengar":[
          "Any + Shadow Ball",
@@ -345,8 +342,7 @@
          "Snarl + Foul Play"
       ],
       "pinsir":[
-         "Bug Bite + X Scissor",
-         "Fury Cutter + X Scissor"
+         "Bug Bite / Fury Cutter + X Scissor"
       ],
       "scizor":[
          "Fury Cutter + X Scissor"
@@ -361,12 +357,10 @@
          "Any + Stone Edge"
       ],
       "flareon":[
-         "Fire Spin + Overheat",
-         "Fire Spin + Flamethrower"
+         "Fire Spin + Overheat / Flamethrower"
       ],
       "golem":[
-         "Rock Throw + Stone Edge",
-         "Rock Throw + Rock Blast"
+         "Rock Throw + Stone Edge / Rock Blast"
       ],
       "moltres":[
          "Any"
@@ -380,8 +374,7 @@
    },
    "zapdos":{
       "golem":[
-         "Rock Throw + Stone Edge",
-         "Rock Throw + Rock Blast"
+         "Rock Throw + Stone Edge / Rock Blast"
       ],
       "piloswine":[
          "Any + Avalanche"
@@ -395,65 +388,37 @@
    },
    "moltres":{
       "omastar":[
-         "Rock Throw + Rock Slide",
-         "Rock Throw + Rock Blast",
-         "Water Gun + Rock Slide",
-         "Water Gun + Rock Blast"
+         "Rock Throw / Water Gun + Rock Slide / Rock Blast"
       ],
       "golem":[
-         "Rock Throw + Stone Edge",
-         "Rock Throw + Rock Blast"
+         "Rock Throw + Stone Edge / Rock Blast"
       ],
       "tyranitar":[
          "Bite + Stone Edge"
       ],
       "sudowoodo":[
-         "Rock Throw + Rock Slide",
-         "Rock Throw + Stone Edge"
+         "Rock Throw + Rock Slide / Stone Edge"
+      ],
+      "vaporeon":[
+         "Water Gun + Any"
       ]
    },
    "ho-oh":{
       "omastar":[
-         "Rock Throw + Rock Slide",
-         "Rock Throw + Rock Blast",
-         "Water Gun + Rock Slide",
-         "Water Gun + Rock Blast"
+         "Rock Throw / Water Gun + Rock Slide / Rock Blast"
       ],
       "golem":[
-         "Rock Throw + Stone Edge",
-         "Rock Throw + Rock Blast"
+         "Rock Throw + Stone Edge / Rock Blast"
       ],
       "tyranitar":[
          "Bite + Stone Edge"
       ],
       "jolteon":[
-         "Thunder Shock + Thunderbolt",
-         "Thunder Shock + Discharge"
-      ]
-   },
-   "hooh":{
-      "omastar":[
-         "Rock Throw + Rock Slide",
-         "Rock Throw + Rock Blast",
-         "Water Gun + Rock Slide",
-         "Water Gun + Rock Blast"
-      ],
-      "golem":[
-         "Rock Throw + Stone Edge",
-         "Rock Throw + Rock Blast"
-      ],
-      "tyranitar":[
-         "Bite + Stone Edge"
-      ],
-      "jolteon":[
-         "Thunder Shock + Thunderbolt",
-         "Thunder Shock + Discharge"
+         "Thunder Shock + Thunderbolt / Discharge"
       ]
    },
    "lugia":{
       "stats": {
-         "Atk": "164",
-         "Def": "267",
          "HP": "12500",
          "CP": "42753"
       },
@@ -487,8 +452,7 @@
    },
    "celebi":{
       "pinsir":[
-         "Bug Bite + X Scissor",
-         "Fury Cutter + X Scissor"
+         "Bug Bite / Fury Cutter + X Scissor"
       ],
       "scizor":[
          "Fury Cutter + X Scissor"
@@ -498,66 +462,46 @@
          "Shadow Claw + Any"
       ],
       "tyranitar":[
-         "Bite + Crunch",
-         "Bite + Stone Edge"
+         "Bite + Crunch / Stone Edge"
       ],
       "flareon":[
-         "Fire Spin + Overheat",
-         "Fire Spin + Flamethrower"
+         "Fire Spin + Overheat / Flamethrower"
       ]
    },
    "suicune":{
       "exeggutor":[
-         "Any + Solar Beam",
-         "Any + Seed Bomb"
+         "Any + Solar Beam / Seed Bomb"
       ],
       "venusaur":[
-         "Any + Solar Beam",
-         "Any + Petal Blizzard"
+         "Any + Solar Beam / Petal Blizzard"
       ],
       "jolteon":[
-         "Thunder Shock + Thunderbolt",
-         "Thunder Shock + Discharge"
+         "Thunder Shock + Thunderbolt / Discharge"
       ],
       "tangela":[
-         "Vine Whip + Grass Knot",
-         "Vine Whip + Solar Beam"
+         "Vine Whip + Grass Knot / Solar Beam"
       ]
    },
    "raikou":{
       "rhydon":[
-         "Mud Slap + Earthquake",
-         "Mud Slap + Stone Edge"
+         "Mud Slap + Earthquake / Stone Edge"
       ],
       "golem":[
-         "Mud Slap + Earthquake",
-         "Mud Slap + Stone Edge",
-         "Mud Shot + Earthquake",
-         "Mud Shot + Stone Edge"
+         "Mud Slap / Mud Shot + Earthquake / Stone Edge"
       ],
       "dragonite":[
-         "Dragon Tail + Dragon Claw",
-         "Dragon Tail + Outrage",
-         "Dragon Breath + Dragon Claw",
-         "Dragon Breath + Outrage"
+         "Dragon Tail / Dragon Breth + Dragon Claw / Outrage"
       ],
       "machamp":[
-         "Counter + Dynamic Punch",
-         "Counter + Close Combat",
-         "Karate Chop + Dynamic Punch",
-         "Karate Chop + Close Combat"
+         "Counter / Karate Chop + Dynamic Punch / Close Combat"
       ]
    },
    "entei":{
       "omastar":[
-         "Rock Throw + Rock Slide",
-         "Rock Throw + Rock Blast",
-         "Water Gun + Rock Slide",
-         "Water Gun + Rock Blast"
+         "Rock Throw / Water Gun + Rock Slide / Rock Blast"
       ],
       "vaporeon":[
-         "Water Gun + Hydro Pump",
-         "Water Gun + Aqua Tail"
+         "Water Gun + Hydro Pump / Aqua Tail"
       ],
       "golem":[
          "Any"
